@@ -1,0 +1,11 @@
+{
+    "domain": "dev-pgu6qlrh.us.auth0.com",
+    "clientId": "FPx8uSZ23GVxuahFHofk2i8BdPkGGAnu",
+    "organization": "org_TKZ9NEmer1WPzs1U",
+    "authorizationParams": {
+        "audience": ""
+    },
+    "apiUri": "http://localhost:3001",
+    "appUri": "http://localhost:4200/",
+    "errorPath": "/error"
+}
